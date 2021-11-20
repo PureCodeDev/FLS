@@ -1,0 +1,11 @@
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\LAB1\LAB1\bin\Debug\netcoreapp2.1\LAB1.deps.json
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\LAB1\LAB1\bin\Debug\netcoreapp2.1\LAB1.runtimeconfig.json
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\LAB1\LAB1\bin\Debug\netcoreapp2.1\LAB1.runtimeconfig.dev.json
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\LAB1\LAB1\bin\Debug\netcoreapp2.1\LAB1.dll
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\LAB1\LAB1\bin\Debug\netcoreapp2.1\LAB1.pdb
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\LAB1\LAB1\obj\Debug\netcoreapp2.1\LAB1.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\LAB1\LAB1\obj\Debug\netcoreapp2.1\LAB1.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\LAB1\LAB1\obj\Debug\netcoreapp2.1\LAB1.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\LAB1\LAB1\obj\Debug\netcoreapp2.1\LAB1.AssemblyInfo.cs
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\LAB1\LAB1\obj\Debug\netcoreapp2.1\LAB1.dll
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\LAB1\LAB1\obj\Debug\netcoreapp2.1\LAB1.pdb
