@@ -1,0 +1,15 @@
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\bin\Debug\WPF.exe.config
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\bin\Debug\WPF.exe
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\bin\Debug\WPF.pdb
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\obj\Debug\WPF.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\obj\Debug\App.g.cs
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\obj\Debug\MainWindow.baml
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\obj\Debug\WPF.g.resources
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\obj\Debug\WPF.exe
+C:\Users\Xiaomi\Desktop\Study\5 sem\Courses\С#\WPF\WPF\obj\Debug\WPF.pdb
