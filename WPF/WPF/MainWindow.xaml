@@ -1,0 +1,38 @@
+﻿<Window x:Class="WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="663.062" Width="1271.198">
+    <Canvas>
+        <Grid Height="624">
+            <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Height="{Binding RelativeSource={RelativeSource AncestorType={x:Type local:MainWindow}}, Path=Height-50}" 
+                      VerticalAlignment="Top" Width="1000" ColumnWidth="125" Canvas.Left="10" Canvas.Top="10" AutoGenerateColumns ="False">
+
+                <!--"{Binding RelativeSource={RelativeSource AncestorType={x:Type Grid}}, Path=(ActualHeight)}"-->
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Id" Binding="{Binding Id}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Name" Binding="{Binding Name}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Description" Binding="{Binding Description}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Source" Binding="{Binding Source}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="InfluenceObject" Binding="{Binding InfluenceObject}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="PrivacyViolation" Binding="{Binding PrivacyViolation}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="AccessibilityViolation" Binding="{Binding AccessibilityViolation}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="IntegrityViolation" Binding="{Binding IntegrityViolation}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="IntroductionDate" Binding="{Binding IntroductionDate}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="LastChangeDate" Binding="{Binding LastChangeDate}"></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+        <Button x:Name="button" Content="HOT LOAD" FontSize="32" HorizontalAlignment="Right" 
+                VerticalAlignment="Top" Width="202" Height="101" Click="Button_Click" Canvas.Left="1053" Canvas.Top="10"/>
+        <Button x:Name="saveButton" Content="Save" FontSize="32" HorizontalAlignment="Right" 
+                VerticalAlignment="Top" Width="202" Height="101" Click="SaveButton_Click" Canvas.Left="1053" Canvas.Top="144"/>
+        <Button x:Name="compactviewButton" Content="CompactView" FontSize="32" HorizontalAlignment="Right"
+                VerticalAlignment="Top" Width="202" Height="101" Click="CompactviewButton_Click" Canvas.Left="1053" Canvas.Top="287" />
+
+
+    </Canvas>
+</Window>
